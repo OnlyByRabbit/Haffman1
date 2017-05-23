@@ -1,0 +1,6 @@
+c:\users\fando\documents\visual studio 2015\Projects\Haffman\Haffman\bin\Debug\Haffman.exe.config
+c:\users\fando\documents\visual studio 2015\Projects\Haffman\Haffman\bin\Debug\Haffman.exe
+c:\users\fando\documents\visual studio 2015\Projects\Haffman\Haffman\bin\Debug\Haffman.pdb
+c:\users\fando\documents\visual studio 2015\Projects\Haffman\Haffman\obj\Debug\Haffman.csprojResolveAssemblyReference.cache
+c:\users\fando\documents\visual studio 2015\Projects\Haffman\Haffman\obj\Debug\Haffman.exe
+c:\users\fando\documents\visual studio 2015\Projects\Haffman\Haffman\obj\Debug\Haffman.pdb
